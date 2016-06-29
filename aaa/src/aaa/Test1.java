@@ -88,7 +88,7 @@ public class Test1 extends JFrame {
 				char[] password = pwdpassword.getPassword();
 				String p = new String(password);
 				
-				if(name.equals("xuegang")&&p.equals("123")){
+				if(name.equals("xuegang")&&p.equals("1234")){
 					JOptionPane.showMessageDialog(null, "µÇÂ¼³É¹¦");
 				}else{
 					JOptionPane.showMessageDialog(null, "µÇÂ¼Ê§°Ü");
